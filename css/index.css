@@ -196,6 +196,7 @@ a {
 
 .content_r_sub_text ul li {
 	padding: 0 .1875rem;
+	padding-top: .0625rem
 	background-color: #29b561;
 	margin-right: .2rem;
 	border-radius: .12rem;
