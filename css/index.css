@@ -1,4 +1,4 @@
-﻿* {
+* {
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -195,7 +195,7 @@ a {
 }
 
 .content_r_sub_text ul li {
-	padding: 0 .1875rem;
+	padding:  .0625rem .1875rem 0 .1875rem;
 	background-color: #29b561;
 	margin-right: .2rem;
 	border-radius: .12rem;
